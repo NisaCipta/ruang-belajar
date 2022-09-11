@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- Khairun Nisa Cipta Hapsari - BE3139675
 - Bob
